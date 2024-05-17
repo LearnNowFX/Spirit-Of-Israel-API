@@ -1,32 +1,17 @@
 [
   {
-    "name": "Hand carved wooden candle holder",
+    "name": "Shabbat candle holder #A27",
     "price": 150.0,
-    "image": "/images/candleholder.jpg"
+    "image": "/images/A27.jpg"
   },
   {
-    "name": "Hand carved wooden mezuza case",
+    "name": "Shabbat candle holder #A28",
     "price": 150.0,
-    "image": "/images/mezuza.jpg"
+    "image": "/images/A28.jpg"
   },
   {
-    "name": "Hand carved wooden dreidel",
+    "name": "Yarzheit candle holder #B35",
     "price": 150.0,
-    "image": "/images/dreidel.jpg"
-  },
-  {
-    "name": "Hand carved wooden kiddush cup",
-    "price": 150.0,
-    "image": "/images/kiddush.jpg"
-  },
-  {
-    "name": "Hand carved wooden seder plate",
-    "price": 150.0,
-    "image": "/images/seder.jpg"
-  },
-  {
-    "name": "Hand carved wooden challah board",
-    "price": 150.0,
-    "image": "/images/challah.jpg"
+    "image": "/images/B35.jpg"
   }
 ]
