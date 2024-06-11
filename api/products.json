@@ -1,17 +1,52 @@
 [
   {
     "name": "Shabbat candle holder #A27",
-    "price": 150.0,
+    "price": 199.0,
     "image": "/images/A27.jpg"
   },
   {
     "name": "Shabbat candle holder #A28",
-    "price": 150.0,
+    "price": 199.0,
     "image": "/images/A28.jpg"
   },
   {
+    "name": "Shabbat candle holder #A31",
+    "price": 199.0,
+    "image": "/images/A31.jpg"
+  },
+  {
     "name": "Yarzheit candle holder #B35",
-    "price": 150.0,
+    "price": 199.0,
     "image": "/images/B35.jpg"
+  },
+  {
+    "name": "Yarzheit candle holder #B37",
+    "price": 199.0,
+    "image": "/images/B37.jpg"
+  },
+  {
+    "name": "Shaar HaGilgulim Gate of Reincarnations #S1",
+    "price": 155.0,
+    "image": "/images/S1.jpg"
+  },
+  {
+    "name": "Segulot and the secrets of the Gemstones #S2",
+    "price": 155.0,
+    "image": "/images/S2.jpg"
+  },
+  {
+    "name": "Secrets of the Horoscope #S3",
+    "price": 155.0,
+    "image": "/images/S3.jpg"
+  },
+  {
+    "name": "The key to dream interpretation #S5",
+    "price": 155.0,
+    "image": "/images/S5.jpg"
+  },
+  {
+    "name": "The wisdom of palm reading #S7",
+    "price": 155.0,
+    "image": "/images/S7.jpg"
   }
 ]
